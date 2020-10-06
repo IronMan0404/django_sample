@@ -1,0 +1,21 @@
+
+?
+bbatchu/urls.py,1\2\129c0fbea3c46290d9d2db74f318f5bf10d38418
+9
+	Readme.md,0\c\0c1945d7443c2e154bd3e421c0d438bd4086d8c3
+E
+templates/logout.html,d\2\d29333f355cce15114288255d15b7e3ddcd86b7a
+C
+bbatchu/settings.py,f\c\fcdd0bb8e6c02d0436a4973837b1cc2e211aa787
+G
+templates/homepage.html,d\8\d8b6010e1324e4b49dbf871af72928674d1ef1dd
+D
+templates/login.html,f\f\ffdb36cd67c5e5e09ba8e92b13a1dc029c7c4627
+@
+FrontEnd/urls.py,9\d\9d586732ead79d2ee9e946d59d21996637382a7e
+A
+FrontEnd/views.py,2\9\29138df670528d840b6a7c781f38245a024d7f21
+E
+templates/signup.html,7\b\7b67c1a6f2a7f65bff81b4b08078c3344a9f78aa
+C
+templates/base.html,d\a\da7c237b85a69c00a9ab8c189bf63e22070fcac3

@@ -1,0 +1,19 @@
+nav {
+    background: #F80;
+    justify-self: right;
+    color: white;
+    font-weight: normal;
+}
+nav ul {
+    margin: 0; padding: 0;
+}
+nav a {
+    padding: 0em;
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    font-size: .8em;
+}
+#navHelp {
+    max-width: 30px;
+}
